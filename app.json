@@ -1,0 +1,31 @@
+{
+  "name": "🧚‍♀️𝗪𝗔𝗧𝗦𝗢𝗡-𝗠𝗗-𝗩❼💗",
+  "description": "Javascript WhatsApp bot made by Mr Watson-xd Official",
+  "logo": "https://telegra.ph/file/b7ae2db82899be94fb9c0.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "AUTO_VOICE": {
+      "description": "Put true or false.",
+      "required": true
+    },
+    
+    "MODE": {
+      "description": "Put worktype public or private or groups.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
