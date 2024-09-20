@@ -27,9 +27,10 @@
 
 
 
-## MY YT CHANNEL
+## MY YT CHANNEL AND WATSAPP 
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@watsonFOURPENCE-hq9ks) 
+[![WATSAPP](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
 
 </details>
 
@@ -56,7 +57,7 @@
 
 ### Copy This Code For Github Workflow 
 
-https://github.com/manulofficial7/GitHub-Workflow-Code
+https://github.com/WATSON-XD2/GitHub-Workflow-Code
 
 4. ## Deploy to HEROKU ↓
 
